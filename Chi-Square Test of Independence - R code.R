@@ -1,4 +1,4 @@
-#INST314 PROJECT 1 / JULIAN VAZQUEZ & COLIN BRADLEY / DATE: 02/28/2019
+#INST314 PROJECT 1 / JULIAN VAZQUEZ / DATE: 02/28/2019
 
 vg.complete <- read.csv(file.choose())
 str(vg.complete)
