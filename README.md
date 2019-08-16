@@ -8,4 +8,4 @@ Memo-style papers written for a Statistics for Information Science course (INST3
 * Chi-square test of independence: relationship between video game genres and publishers (Nintendo, Activision, Microsoft Game Studios and Sony Computer Entertainment)
 * Independent samples t-test: average avocado prices in 2015 vs 2018
 
-**All pdf documents include their corresponding R files**
+**All pdf documents have their corresponding R file**
